@@ -1,16 +1,19 @@
-### Hi there 👋
+<div id="main" style="font-family: 'Courier New', monospace;">
+  <h1 align="center"> Hi there 🖖</h1>
 
-<!--
-**zhtkus/zhtkus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <h2>About me</h2>
 
-Here are some ideas to get you started:
+  <div id="aboutme">
+    <p>I'm Zhania, a Junior Cyber Security Specialist.</p>
+  </div>
+  <div id="badges">
+    <a href="mailto:zhtkus@ya.ru"><img src="https://img.shields.io/badge/-zhtkus%40ya.ru-F9DB60?style=for-the-badge"></a>
+    <a href="https://t.me/zhtkus" ref="nofollow"><img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=Telegram"></a>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h2>My skills</h2>
+  <div id="skillset">
+    <p> Linux, Docker, Git, Python, MarkDown, ELK ...
+    </p>
+  </div>
+</div>
