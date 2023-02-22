@@ -1,7 +1,5 @@
-<div id="main" style="font-family: 'Courier New', monospace;">
-  <h1 align="center"> Hi there 🖖</h1>
-
-  <h2>About me</h2>
+<div id="main">
+  <h1 align="center"> Hi there</h1>
 
   <div id="badges">
     <a href="mailto:zhtkus@ya.ru"><img src="https://img.shields.io/badge/-zhtkus%40ya.ru-F9DB60?style=flat"></a>
