@@ -1,17 +1,13 @@
-<div id="main">
-  <h1 align="center"> Hi there</h1>
+### Hello, my name is Zhania.  
 
-  <div id="badges">
-    <a href="mailto:zhtkus@ya.ru"><img src="https://img.shields.io/badge/-zhtkus%40ya.ru-F9DB60?style=flat"></a>
-    <a href="https://t.me/zhtkus" ref="nofollow"><img src="https://img.shields.io/badge/Telegram-blue?style=flat&logo=Telegram"></a>
-  </div>
-  <div id="aboutme">
-    <p>I'm Zhania, a Junior Cyber Security Specialist.</p>
-  </div>
+I'm a sysadmin who likes open source. I like creating useful applications. So I practice programming by learning Python.  
 
-  <h2>My skills</h2>
-  <div id="skillset">
-    <p> Linux, Docker, Git, Python, MarkDown, ELK ...
-    </p>
-  </div>
-</div>
+📘 I'm currently learning all about DevOps.  
+
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![GNU Bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![GIT](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
